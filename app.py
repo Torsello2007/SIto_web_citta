@@ -8,7 +8,7 @@ def homepage():
 
 @app.route('/storia')
 def storia():
-    return render_template('storia.html')
+    return render_template('storia.
 
 @app.route('/luoghi')
 def luoghi():
